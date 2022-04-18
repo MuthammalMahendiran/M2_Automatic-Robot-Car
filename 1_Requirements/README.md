@@ -12,4 +12,4 @@ The aim of this project is to use  micro-controller with the DC motor with the v
 * RIGHT
 * STOP
 
-The car will be moving automatically according to these commands.
+The car will be moving automatically according to these directions.
