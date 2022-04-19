@@ -1,6 +1,6 @@
 
 
-name: Compile-Linux
+name: main
 
 on:
   push:
