@@ -1,33 +1,21 @@
 
 
-name: CI
-
+name: Compile-Linux
 
 on:
-  
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
 
-  
-  workflow_dispatch:
-
-
 jobs:
-
   build:
-    
+
     runs-on: ubuntu-latest
 
-  
     steps:
-      
-      - uses: actions/checkout@v3
-      - name: get_avr-gcc
-         run: sudo apt-get install gcc-avr binutils-avr avr-libc
-      - name: Compile
-         run: make
-
-      
-     
+    - uses: actions/checkout@v2
+    - name: get_avr-gcc
+      run: sudo apt-get install gcc-avr binutils-avr avr-libc
+    - name: main
+      run: make
