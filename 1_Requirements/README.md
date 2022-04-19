@@ -15,15 +15,16 @@ The aim of this project is to use  micro-controller with the DC motor with the v
 The car will be moving automatically according to these directions.
 
 
+
 ## HIGH LEVEL REQUIREMENTS:
 
 |RID       |DESCRIPTION	       |STATUS |
 |----------|-------------------|-------|
-|HLR1      |Embedded C LANGUAGE   	   |IMPLEMENTED|
+|HLR1      |EMBEDDED C LANGUAGE   	   |IMPLEMENTED|
 |HLR2      |OS WINDOWS         |IMPLEMENTED|
 |HLR3      |OS LINUX	       |IMPLEMENTED|
-|HLR4      |Atmel Studio       |IMPLEMENTED|
-|HLR5      |Simulide	       |IMPLEMENTED|
+|HLR4      |ATMEL STUDIO      |IMPLEMENTED|
+|HLR5      |SIMULIDE	       |IMPLEMENTED|
 |HLR6      |HARDDISK	       |IMPLEMENTED|
 |HLR7      |RAM 4GB            |IMPLEMENTED|
 
