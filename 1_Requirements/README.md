@@ -13,3 +13,27 @@ The aim of this project is to use  micro-controller with the DC motor with the v
 * STOP
 
 The car will be moving automatically according to these directions.
+
+
+## HIGH LEVEL REQUIREMENTS:
+
+|RID       |DESCRIPTION	       |STATUS |
+|----------|-------------------|-------|
+|HLR1      |Embedded C LANGUAGE   	   |IMPLEMENTED|
+|HLR2      |OS WINDOWS         |IMPLEMENTED|
+|HLR3      |OS LINUX	       |IMPLEMENTED|
+|HLR4      |Atmel Studio       |IMPLEMENTED|
+|HLR5      |Simulide	       |IMPLEMENTED|
+|HLR6      |HARDDISK	       |IMPLEMENTED|
+|HLR7      |RAM 4GB            |IMPLEMENTED|
+
+## LOW LEVEL REQUIREMENTS:
+
+|RID         |DESCRIPTION	    |STATUS|
+|------------|------------------|-------|
+|LLR1      	 |FORWARD             |IMPLEMENTED|
+|LLR2	     |BACKWARD            |IMPLEMENTED|
+|LLR3	     |LEFT        |IMPLEMENTED|
+|LLR4	     |RIGHT             |IMPLEMENTED|
+|LLR5	     |STOP             |IMPLEMENTED|
+
