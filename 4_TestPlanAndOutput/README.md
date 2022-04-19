@@ -20,13 +20,13 @@
 |TEST ID       |DESCRIPTION	    |INPUT| EXPECTED OUTPUT|
 |------------|------------------|-------|------------|
 |LL01      |FORWARD  	   |PORTB = 0x01;| Rotate both the motors in  Clockwise direction |
-                           |PORTD =0x01;|
+ |     |                     |PORTD =0x01;|    |
 |LL02      |BACKWARD         |PORTB = 0x80;|Rotate both motors in  Anti-Clockwise direction|
-		             |PORTD = 0x80;|
+|       |		             |PORTD = 0x80;|   |
 |LL03      |LEFT	       |PORTB = 0x00;|Rotate left motor|
-		              |PORTD = 0x01;|
+|     |		              |PORTD = 0x01;|   |
 |LL04      |RIGHT	       |PORTB = 0x01;|Rotate right motor|
-		               |PORTD = 0x00;|
+|      |		               |PORTD = 0x00;|   |
 |LL05      |STOP	       |PORTB = 0x00;|Both the motors to be stoped|
-		                |PORTD = 0x00;|
+|		|                |PORTD = 0x00;|  |
 
