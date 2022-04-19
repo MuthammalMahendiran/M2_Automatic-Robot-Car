@@ -19,9 +19,9 @@
 
 |TEST ID       |DESCRIPTION	    |INPUT| EXPECTED OUTPUT|
 |------------|------------------|-------|------------|
-|LL01      |FORWARD  	   |PORTB = 0x01;| Rotate both the motors in  Clockwise direction |
+|LL01      |FORWARD  	   |PORTB = 0x01;|  Both the motors to be rotate  in  Clockwise direction |
  |     |                     |PORTD =0x01;|    |
-|LL02      |BACKWARD         |PORTB = 0x80;|Rotate both motors in  Anti-Clockwise direction|
+|LL02      |BACKWARD         |PORTB = 0x80;| Both the motors to be rotate in  Anti-Clockwise direction|
 |       |		             |PORTD = 0x80;|   |
 |LL03      |LEFT	       |PORTB = 0x00;|Rotate left motor|
 |     |		              |PORTD = 0x01;|   |
