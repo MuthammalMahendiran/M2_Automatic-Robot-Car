@@ -4,15 +4,15 @@
 |TEST ID      |DESCRIPTION	       |INPUT |  EXPECTED OUTPUT|
 |----------|-------------------|-------|-----|
 |HL01      |FORWARD  	   |PORTB = 0x01;| EXECUTED |
-                           |PORTD =0x01;|
+|          |                |PORTD =0x01;|  |
 |HL02      |BACKWARD         |PORTB = 0x80;|EXECUTED |
-		             |PORTD = 0x80;|
+|	|             |PORTD = 0x80;|   |
 |HL03      |LEFT	       |PORTB = 0x00;|EXECUTED |
-		              |PORTD = 0x01;|
+|          |                 |PORTD = 0x01;|      |
 |HL04      |RIGHT	       |PORTB = 0x01;|EXECUTED |
-		               |PORTD = 0x00;|
+|          |		        |PORTD = 0x00;|     |
 |HL05      |STOP	       |PORTB = 0x00;|EXECUTED |
-		                |PORTD = 0x00;|
+|          |		       |PORTD = 0x00;|     |
 
 
 ## LOW LEVEL TEST PLAN:
