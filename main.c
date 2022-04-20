@@ -28,12 +28,12 @@ int main(void)
 		PORTD =0x80;
 		_delay_ms(5000);
 		
-		//RIGHT
+		// LEFT
 		PORTB =0x01;
 		PORTD =0x00;
 		_delay_ms(5000);
 		
-		//LEFT
+		//RIGHT  LEFT
 		PORTB =0x00;
 		PORTD =0x01;
 		_delay_ms(5000);
