@@ -28,7 +28,7 @@ The ATmega328 is a single-chip microcontroller created by Atmel in the megaAVR f
 This Automatic robot car   is  an application is used by all the people especially childrean .
 
 ####  What:
-This project  helps to  all the people .
+This project  is navigated and maneuvered by a computer without a need for human control or intervention under a range of driving situations and conditions.
 
 ####  When:
 This Automatic robot car  is very useful when there are large no of people used robot car .
@@ -42,43 +42,48 @@ This project is implemented for to be  moving  in forward, backward, left and ri
 ## SWOT ANALYSIS: 
 
 ### Strengths:
-a) 
+a) Fully automated process 
 
-b) 
+b) Time saving
 
-c)
+c) Cost reduction
 
-d) 
+d) Easy to deploy and re-congigure
+
+e) Rapid development
 
 
 ### Weakness:
-a) 
+a) Expensive
 
-b) 
+b) Safety and security concerns
 
-c) 
+c) Prone to Hacking
 
-d)
+d)Fewer job opportunities for others
+
+e) Non-functional sensors
 
 ### Opportunities:
 
-a)
+a) Roadmap for future projects
 
-b) 
+b) Gain share
 
-c)
+c) Process improvement
 
-d) 
+d) Emission control
+
 
 ### Threats:
 
-a) 
+a) Public transportation
 
-b) 
+b) Unstable process
 
-c) 
+c) Privacy concerns
 
-d)
+d) Eliminate existing jobs
 
 
 
