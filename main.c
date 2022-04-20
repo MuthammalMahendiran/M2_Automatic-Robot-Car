@@ -1,11 +1,4 @@
-*
- * EMBEDDED.c
- *
- * Created: 18-04-2022 08:48:30
- * Author : PERSONAL
- */ 
 
-#define F_CPU 16000000
 #include <avr/io.h>
 #include <util/delay.h>
 
@@ -28,12 +21,12 @@ int main(void)
 		PORTD =0x80;
 		_delay_ms(5000);
 		
-		// LEFT
+		//RIGHT
 		PORTB =0x01;
 		PORTD =0x00;
 		_delay_ms(5000);
 		
-		//RIGHT  LEFT
+		//LEFT
 		PORTB =0x00;
 		PORTD =0x01;
 		_delay_ms(5000);
