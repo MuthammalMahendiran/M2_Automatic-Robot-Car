@@ -13,6 +13,10 @@ The aim of this project is to use  micro-controller with the DC motor with the v
 * STOP
 
 The car will be moving automatically according to these directions.
+
+## OBJECTIVE
+
+ The main objective of this project is to move a car in all direction without the  need for human direction or any other  interaction.
 ## PROPERTIES 
 
 #### Dc motor 
