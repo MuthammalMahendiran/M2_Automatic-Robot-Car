@@ -65,7 +65,7 @@ b) Safety and security concerns
 
 c) Prone to Hacking
 
-d)Fewer job opportunities for others
+d) Fewer job opportunities for others
 
 e) Non-functional sensors
 
