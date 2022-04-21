@@ -7,8 +7,7 @@ int main(void)
 {
 	DDRB = 0x81;
 	DDRD =0x81;
-	// initialize port C
-	// motors connected across PC0...Pc3
+	
 	while(1)
 	{
 		// FORWARD
