@@ -1,3 +1,3 @@
 
-@mainpage Calculator Application by M.Muthammal"
-	@subpage main.h
+         @mainpage Calculator Application by M.Muthammal"
+	 @subpage main.h
