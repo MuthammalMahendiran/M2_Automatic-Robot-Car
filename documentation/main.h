@@ -1,7 +1,7 @@
 /**
- * @file calculator_operations.h
- * @author Your Name
- * @brief Header file for Calculator application with Arithmetic operations
+ * @file main.h
+ * @author  M.Muthammal  
+ * @brief Header file for automatic robot car 
  *
  */
 
