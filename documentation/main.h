@@ -46,7 +46,7 @@ int main(void)
 */
 
 /**
-* @brief   both the motors stop
+* @brief   Both the motors stop
 * @param[in] PORTB =0x00;
 * @param[in] PORTD =0x00;
 * @return left and right  motor stop
