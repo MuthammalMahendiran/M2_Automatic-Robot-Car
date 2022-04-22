@@ -9,9 +9,7 @@ void main(void)
 	{
 	DDRB = 0x81;
 	DDRD =0x81;
-	
-	
-	 {
+		
 		// FORWARD
 		PORTB = 0x01;
 		PORTD = 0x01;
