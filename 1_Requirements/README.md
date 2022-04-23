@@ -1,8 +1,5 @@
 # REQUIREMENTS
 
-## ADVANTAGES
-
-
 
 ## 4'WS and 1 H:
 
