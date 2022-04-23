@@ -150,5 +150,6 @@ d) Eliminate existing jobs
 
 ## FLOW CHART
 
+![Flowchart](https://user-images.githubusercontent.com/101463471/164884870-e2d9572b-0985-473e-b661-6b92dc3bc2d8.PNG)
 
 
