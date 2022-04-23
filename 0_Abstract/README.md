@@ -16,7 +16,7 @@ The aim of this project is to use  micro-controller with the DC motor with the v
 This project involves the design and implementation of an  robot car. The main objective of this project is to move a car in all direction without the  need for human direction or any other  interaction. 
 
 This implementation was done using a DC motor which rotate automatically. The commands are sent to the ATmega328 microcontroller  which serves as the main control
-of the robot car, as it controls the car movement. The implemented robot car was able to successfully detect.
+of the robot car, as it controls the car movement. The implemented robot car was rotate successfully .
 
 ### COMMANDS: 
 
