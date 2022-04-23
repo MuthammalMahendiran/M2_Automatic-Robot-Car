@@ -152,7 +152,7 @@ d) Eliminate existing jobs
 
 ![Flowchart](https://user-images.githubusercontent.com/101463471/164884870-e2d9572b-0985-473e-b661-6b92dc3bc2d8.PNG)
 
-## CIRCUITE DIAGRAM
+## CIRCUIT DIAGRAM
 ![Circuit_Diagram](https://user-images.githubusercontent.com/101463471/164885047-24070d33-be8e-4de9-b5c7-ca5d80f598d8.PNG)
 
 ## TESTCASES
@@ -202,5 +202,23 @@ d) Eliminate existing jobs
 
 #### Stop
 ![Stop](https://user-images.githubusercontent.com/101463471/164885235-087f16fe-00d1-410e-9f73-79ed7d0bf0b1.PNG)
+
+# M2_AUTOMATIC-ROBOT-CAR
+|  FOLDER  | DESCRIPTION|
+|----------|-----------|
+|0_Abstract|Contains explanation of project|
+|           |                                |
+|1_Requirements|Contains 4'WS & 1H , SWOT analysis and details of high level and low level requirements|
+|           |                                |
+|2_Design|Contains Block diagram,Circuit diagarm and Flow chart|
+|           |                                |
+|3_Implementation|Contains Source code and  Simulation|
+|           |                                |
+|4_Testcases|Contains testplan and procedures|
+|           |                                |
+|5_Report|Contains overall details of project|
+|           |                                |
+|6_Output   |Contains output images, .hex file and .simu file|
+|           |                                |
 
 
