@@ -188,5 +188,18 @@ d) Eliminate existing jobs
 |		|                |PORTD = 0x00;|  |
 
 ## OUTPUT IMAGES
+#### Forward 
+![Forward](https://user-images.githubusercontent.com/101463471/164885022-6355ffd1-0ba8-44cb-a1a8-a5c93deea2c9.PNG)
+
+#### Backward
+
+#### Left
+![Left](https://user-images.githubusercontent.com/101463471/164885027-1886fcc8-97a6-40df-8f92-8dd47e122ef6.PNG)
+
+#### Right
+![Right](https://user-images.githubusercontent.com/101463471/164885036-dcea19db-de62-48ec-ad27-a7a95ac41f21.PNG)
+
+#### Stop
+![Stop](https://user-images.githubusercontent.com/101463471/164885040-7b4040c6-e4
 
 
