@@ -152,6 +152,9 @@ d) Eliminate existing jobs
 
 ![Flowchart](https://user-images.githubusercontent.com/101463471/164884870-e2d9572b-0985-473e-b661-6b92dc3bc2d8.PNG)
 
+## CIRCUITE DIAGRAM
+![Circuit_Diagram](https://user-images.githubusercontent.com/101463471/164885047-24070d33-be8e-4de9-b5c7-ca5d80f598d8.PNG)
+
 ## TESTCASES
 ###  HIGH LEVEL TEST PLAN:
 
