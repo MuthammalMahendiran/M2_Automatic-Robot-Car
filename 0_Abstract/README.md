@@ -3,7 +3,20 @@
 
 ## INTRODUCTION
 
+In our world today, ROBOTICS is a very interesting research area, which is fast growing as it is the
+simplest way for modifying modern day technology. Robotics plays a major role in technology
+advancement, which is why I decided to work on the robotics field and design something intelligent
+to make human life simpler.
+
+A robot is one which can move without any external interference in an environment
+which is unstructured and unknown to the robot.
+
 The aim of this project is to use  micro-controller with the DC motor with the view of making the robot follow certain commands.It should contain two  motors for the movement of the robotic car. Consider clockwise as forward and anticlockwise as backward. This project is designed using Embedded C programming language and it should be  compiled in WinAVR with the GCC compiler.The simulation is done in Simulide.
+
+This project involves the design and implementation of an  robot car. The main objective of this project is to move a car in all direction without the  need for human direction or any other  interaction. 
+
+This implementation was done using a DC motor which rotate automatically. The commands are sent to the ATmega328 microcontroller  which serves as the main control
+of the robot car, as it controls the car movement. The implemented robot car was able to successfully detect.
 
 ### COMMANDS: 
 
