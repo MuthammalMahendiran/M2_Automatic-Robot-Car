@@ -192,6 +192,7 @@ d) Eliminate existing jobs
 ![Forward](https://user-images.githubusercontent.com/101463471/164885022-6355ffd1-0ba8-44cb-a1a8-a5c93deea2c9.PNG)
 
 #### Backward
+![Backward](https://user-images.githubusercontent.com/101463471/164885209-b637094e-c305-4426-8830-cdfc34584cea.PNG)
 
 #### Left
 ![Left](https://user-images.githubusercontent.com/101463471/164885027-1886fcc8-97a6-40df-8f92-8dd47e122ef6.PNG)
@@ -200,6 +201,6 @@ d) Eliminate existing jobs
 ![Right](https://user-images.githubusercontent.com/101463471/164885036-dcea19db-de62-48ec-ad27-a7a95ac41f21.PNG)
 
 #### Stop
-![Stop](https://user-images.githubusercontent.com/101463471/164885040-7b4040c6-e4
+![Stop](https://user-images.githubusercontent.com/101463471/164885235-087f16fe-00d1-410e-9f73-79ed7d0bf0b1.PNG)
 
 
