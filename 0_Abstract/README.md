@@ -44,4 +44,6 @@ A DC motor is made up of a stator, an armature or a rotor, and a commutator with
 
 The ATmega328 is a single-chip microcontroller created by Atmel in the megaAVR family (later Microchip Technology acquired Atmel in 2016). It has a modified Harvard architecture 8-bit RISC processor core.Tmega328 is an Advanced Virtual RISC (AVR) microcontroller. It supports 8-bit data processing. ATmega-328 has 32KB internal flash memory. ATmega328 has 1KB Electrically Erasable Programmable Read-Only Memory (EEPROM).
 
+
+
 ![Robot car](https://user-images.githubusercontent.com/101463471/164886304-0fb3b739-4d8a-4dac-b044-50c7e1f87f48.jpg)
