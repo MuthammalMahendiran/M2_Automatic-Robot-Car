@@ -1,5 +1,12 @@
 # REPORT
-## PROPERTIES 
+## COMPONENETS USED IN PROJECT
+      * DC motor
+      
+          * 
+          
+      * ATmega328 microcontroller
+      
+          *
 
 #### Dc motor 
 A direct current (DC) motor is a type of electric machine that converts electrical energy into mechanical energy. DC motors take electrical power through direct current, and convert this energy into mechanical rotation.
