@@ -1,5 +1,17 @@
 # REQUIREMENTS
 
+## SOFTWARE REQUIREMENTS
+* SIMULIDE
+* WINAVR
+
+## COMPONENETS USED IN PROJECT
+* DC motor
+      
+ DC motor is connected to microcontroller and it will rotate forward, backward,left and right directions autmatically.
+          
+* ATmega328 microcontroller
+      
+The commands are sent to the ATmega328 microcontroller  which serves as the main control of the robot car, as it controls the car movement. The implemented robot car was rotate successfully .
 
 ## 4'WS and 1 H:
 
