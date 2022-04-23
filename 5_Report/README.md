@@ -1,12 +1,17 @@
 # REPORT
+
+## SOFTWARE REQUIREMENTS
+* SIMULIDE
+* WINAVR
+
 ## COMPONENETS USED IN PROJECT
-      * DC motor
+* DC motor
       
-          * 
+ DC motor is connected to microcontroller and it will rotate forward, backward,left and right directions autmatically.
           
-      * ATmega328 microcontroller
+* ATmega328 microcontroller
       
-          *
+The commands are sent to the ATmega328 microcontroller  which serves as the main control of the robot car, as it controls the car movement. The implemented robot car was rotate successfully .
 
 #### Dc motor 
 A direct current (DC) motor is a type of electric machine that converts electrical energy into mechanical energy. DC motors take electrical power through direct current, and convert this energy into mechanical rotation.
