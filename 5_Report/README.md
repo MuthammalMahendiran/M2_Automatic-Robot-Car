@@ -145,5 +145,10 @@ d) Eliminate existing jobs
 |LLR4	     |RIGHT             |IMPLEMENTED|
 |LLR5	     |STOP             |IMPLEMENTED|
 
+## BLOCK DIAGRAM
+![Block_Diagram](https://user-images.githubusercontent.com/101463471/164884804-5aec100f-d935-4e2f-b34c-e1b211f3d932.PNG)
+
+## FLOW CHART
+
 
 
