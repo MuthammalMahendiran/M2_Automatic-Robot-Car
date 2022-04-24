@@ -33,7 +33,7 @@ The car will be moving automatically according to these directions.
  The main objective of this project is to move a car in all direction without the  need for human direction or any other  interaction.
 ## PROPERTIES 
 
-#### Dc motor 
+#### DC motor 
 A direct current (DC) motor is a type of electric machine that converts electrical energy into mechanical energy. DC motors take electrical power through direct current, and convert this energy into mechanical rotation.
 
 A DC motor is one of the first electric motors designed to convert direct current electrical energy to mechanical energy. It is one of the greatest devices that humans invented and since then, it has amazingly revolutionized our lives. This rotary electrical machine occupied different types, all of them contain almost the same components that cooperate based on either the mechanism of electronic or the mechanism of electromechanical that is responsible for changing the direction of current in the motor.
