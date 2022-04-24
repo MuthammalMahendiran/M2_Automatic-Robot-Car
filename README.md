@@ -1,3 +1,6 @@
+# BADGES
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/723c7590de6449a5b35c8720fd5092f7)](https://app.codacy.com/gh/MuthammalMahendiran/M2_Automatic-Robot-Car?utm_source=github.com&utm_medium=referral&utm_content=MuthammalMahendiran/M2_Automatic-Robot-Car/&utm_campaign=Badge_Grade_Settings)
+
 ![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/MuthammalMahendiran/M2_Automatic-Robot-Car?color=%23)
 
 # M2_AUTOMATIC-ROBOT-CAR
